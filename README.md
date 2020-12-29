@@ -17,3 +17,7 @@ Test
 ## How To Contribute
 
 tes3
+
+## Copyright
+
+Git training
