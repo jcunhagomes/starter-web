@@ -16,7 +16,7 @@ Test
 
 ## How To Contribute
 
-tes3
+Please fork this
 
 ## Copyright
 
