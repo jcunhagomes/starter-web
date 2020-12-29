@@ -20,4 +20,4 @@ Please fork this
 
 ## Copyright
 
-Git training
+Git training, all notes here
